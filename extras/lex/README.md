@@ -1,4 +1,4 @@
-This is an example program using only the lexer that refornats any JSON sent to stdin.    
+This is an example program using only the lexer that reformats any JSON sent to stdin.    
 Trailing commas are printed that other JSON parsers will reject, removing those is left as an exercise for the reader.
 
 It can format arbitrarily long .json files using only a small static buffer.    
