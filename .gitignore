@@ -1,0 +1,5 @@
+/extras/fuzz/output
+/extras/fuzz/*.gc*
+/extras/fuzz/fuzz
+/extras/lex/fmt
+/extras/parse/parse_example
